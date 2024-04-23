@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashwaghmare388
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning python, react JS 
+- 🌱 I’m currently learning python, react JS, Javascript, HTML, CSS, MongoDB, API
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me
       mob no: +917040702065,
